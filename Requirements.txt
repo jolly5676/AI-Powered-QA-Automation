@@ -1,0 +1,16 @@
+# === Core dependencies ===
+streamlit>=1.30.0
+python-dotenv>=1.0.1
+openai>=1.30.0
+
+# === Testing Frameworks ===
+behave>=1.2.6
+pytest>=8.0.0
+
+# === Utilities ===
+pandas>=2.2.0
+numpy>=1.26.0
+requests>=2.31.0
+
+# === Optional ===
+rich>=13.7.0
